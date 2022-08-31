@@ -1,2 +1,4 @@
 # Hahsuisiwjshshuwiqiqiqoqowshvsbakakqiuwhshab
 Jajajajjakakaka
+
+Pip3 install names requests
